@@ -1,0 +1,1 @@
+This is first line - sample2.txt
