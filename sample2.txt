@@ -1,1 +1,3 @@
 This is first line - sample2.txt
+This is second line - sample2.txt
+This is third line - sample2.txt
